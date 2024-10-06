@@ -1,2 +1,2 @@
 # hello-world
-Practice of previous learning
+Practice of previous learning.
